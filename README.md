@@ -1,6 +1,6 @@
-# VRST 2025 Paper Submission Files
+# Paper Submission Files
 
-This repository contains files related to our paper submission for the **VRST 2025**.
+This repository contains files related to our paper submission.
 
 ## Repository Contents
 
